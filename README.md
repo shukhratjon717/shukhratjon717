@@ -12,8 +12,7 @@
 <p align="tight">
 <a href="https://instagram.com/shukhratjon717" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shukhratjon717" height="30" width="40" /></a>
 </p>
-<a type="email" href="Email" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="shukhratjon717" height="30" width="40" /></a>
-</p>
+
 
 
 ## 🌐 Socials:
