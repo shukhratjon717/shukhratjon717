@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on a 30-days-codewars-challenge and MERN full stack.<br><br>- 🌱 I’m currently learning JS, ReactJS, NodeJS.<br><br>- 🤝 I’m looking for help with NodeJS.
+🔭 I’m currently working on a 30-days-codewars-challenge and MERN and NESTJS full stack.<br><br>- 🌱 I’m currently learning JS, ReactJS, NodeJS.<br><br>- 🤝 I’m looking for help with NodeJS.
 
 
 ## 🌐 Socials:
