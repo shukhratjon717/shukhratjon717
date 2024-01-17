@@ -8,6 +8,12 @@
 🔭 I’m currently working on a 30-days-codewars-challenge and MERN and NESTJS full stack.<br><br>- 🌱 I’m currently learning JS, ReactJS, NodeJS.<br><br>- 🤝 I’m looking for help with NodeJS.
 
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/shukhratjon717" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shukhratjon717" height="30" width="40" /></a>
+</p>
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shukhratjon717) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Ali-Mamadaliev) 
 
