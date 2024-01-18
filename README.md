@@ -9,7 +9,7 @@
 
 
 <h3 align="right">Connect with me:</h3>
-<p align="tight">
+<p align="right">
 <a href="https://instagram.com/shukhratjon717" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shukhratjon717" height="30" width="40" /></a>
 </p>
 
