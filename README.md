@@ -1,9 +1,6 @@
 <h1 align="center">👋 Hey there, I'm <strong>Shukhratjon</strong></h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=MERN+%26+NestJS+Full‑Stack+Developer;JavaScript+%7C+React+%7C+Node.js+%7C+NestJS;Clean+Code+Enthusiast;Problem+Solver+%26+Fast+Learner" />
-</p>
-
+<p align="center"> <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="400" /> </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="350" />
 </p>
