@@ -87,7 +87,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shukhratjon717&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shukhratjon717&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
 ---
