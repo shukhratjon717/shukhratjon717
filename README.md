@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I'm <strong>Shukhratjon</strong></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=MERN+%26+NestJS+Full-Stack+Developer;JavaScript+%7C+React+%7C+Node.js+%7C+NestJS;Clean+Code+Enthusiast;Problem+Solver+%26+Fast+Learner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=MERN+%26+NestJS+Full‑Stack+Developer;JavaScript+%7C+React+%7C+Node.js+%7C+NestJS;Clean+Code+Enthusiast;Problem+Solver+%26+Fast+Learner" />
 </p>
 
 <p align="center">
@@ -12,12 +12,12 @@
 
 ## 🌟 About Me
 
-✨ Full-stack developer who loves modern architectures, elegant UI designs, and scalable backend systems.
+✨ Full‑stack developer who loves modern architectures, elegant UI designs, and scalable backend systems.
 
-* 🔭 Working on **30-Days Codewars Challenge**, **MERN**, and **NestJS** apps.
+* 🔭 Working on **30‑Days Codewars Challenge**, **MERN**, and **NestJS** apps.
 * 🌱 Learning deeply: **Advanced Node.js**, **System Design**, **TypeScript**, and **Microservices**.
 * ⚙️ Passionate about backend optimization & clean code.
-* 🎯 Goal: To become a top-tier full-stack engineer.
+* 🎯 Goal: To become a top‑tier full‑stack engineer.
 * 🎨 Fun fact: I enjoy turning complex ideas into simple user experiences.
 
 ---
@@ -64,7 +64,7 @@
 
 > *Add your top projects later here — it makes the profile look professional.*
 
-🟦 **Project One** — Full-stack MERN app <br>🔗 Demo: *coming soon*
+🟦 **Project One** — Full‑stack MERN app <br>🔗 Demo: *coming soon*
 
 🟥 **Project Two** — NestJS REST API <br>🔗 Repo: *coming soon*
 
@@ -80,6 +80,32 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shukhratjon717&theme=tokyonight&hide_border=false" />
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shukhratjon717&theme=tokyonight&hide_border=false&layout=compact" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shukhratjon717&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
+</p>
+
+---
+
+## 📈 GitHub Metrics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shukhratjon717&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shukhratjon717&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shukhratjon717&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shukhratjon717&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shukhratjon717&theme=tokyonight&utcOffset=8" />
 </p>
 
 ---
