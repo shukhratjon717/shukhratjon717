@@ -1,7 +1,7 @@
 # 👋 Hello, I'm **Shukhratjon**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AF7FF&center=true&vCenter=true&width=600&lines=MERN+%26+NestJS+Full-Stack+Developer;JavaScript+%7C+React+%7C+Node.js+%7C+NestJS;Clean+Code+Enthusiast+%7C+Problem+Solver" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AF7FF&center=true&vCenter=true&width=600&lines=MERN+%26+NestJS+Full‑Stack+Developer;JavaScript+%7C+React+%7C+Node.js+%7C+NestJS;Clean+Code+Enthusiast+%7C+Problem+Solver" />
 </p>
 
 <p align="center">
@@ -12,13 +12,19 @@
 
 ## 🚀 About Me
 
-✨ I'm a passionate full-stack developer who enjoys building fast, scalable, and user-friendly applications. I love exploring new technologies and constantly sharpening my problem-solving skills.
+> 💡 *"Code is like humor. When you have to explain it, it’s bad."*
 
-* 🔭 Currently doing a **30-Days Codewars Challenge**
-* ⚙️ Working with **MERN** + **NestJS** full-stack applications
+### Who Am I?
+
+A dedicated full‑stack developer who loves building efficient systems, beautiful UIs, and scalable backend infrastructures. I enjoy turning ideas into real‑world applications and constantly improving my craft.
+
+✨ I'm a passionate full‑stack developer who enjoys building fast, scalable, and user‑friendly applications. I love exploring new technologies and constantly sharpening my problem‑solving skills.
+
+* 🔭 Currently doing a **30‑Days Codewars Challenge**
+* ⚙️ Working with **MERN** + **NestJS** full‑stack applications
 * 🌱 Deep diving into architecture, backend patterns & clean coding
 * 🤝 Looking for help with advanced Node.js concepts
-* 🎯 Goal: Become a senior full-stack developer
+* 🎯 Goal: Become a senior full‑stack developer
 
 ---
 
@@ -29,6 +35,18 @@
     <img src="https://skillicons.dev/icons?i=instagram" width="45" />
   </a>
 </p>
+
+---
+
+## 🛠️ Tech Stack
+
+### 🧩 Core Skills Summary
+
+✔ Full‑stack development (MERN + NestJS)
+✔ API design & backend architecture
+✔ Clean code & reusable component patterns
+✔ UI/UX‑focused frontend development
+✔ Problem‑solving & debugging master
 
 ---
 
@@ -62,6 +80,8 @@
 
 ## 📊 GitHub Stats
 
+### ⭐ My GitHub at a glance
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shukhratjon717&theme=tokyonight&hide_border=false" />
   <br/><br/>
@@ -75,6 +95,24 @@
 ## 🧪 Codepen
 
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge\&logo=codepen\&logoColor=white)](https://codepen.io/Ali-Mamadaliev)
+
+---
+
+## 🚀 Featured Projects
+
+> *Showcasing your best work makes your GitHub look 10x more professional.*
+
+### 🔹 **Project Name 1** – *(Add a short description)*
+
+🔗 Demo: yourlink.com
+
+### 🔹 **Project Name 2** – *(Add a short description)*
+
+🔗 Repo: github.com/yourrepo
+
+### 🔹 **Project Name 3** – *(Add a short description)*
+
+🔗 Demo: yourlink.com
 
 ---
 
