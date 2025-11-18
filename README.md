@@ -1,7 +1,7 @@
-# 👋 Hello, I'm **Shukhratjon**
+<h1 align="center">👋 Hey there, I'm <strong>Shukhratjon</strong></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AF7FF&center=true&vCenter=true&width=600&lines=MERN+%26+NestJS+Full‑Stack+Developer;JavaScript+%7C+React+%7C+Node.js+%7C+NestJS;Clean+Code+Enthusiast+%7C+Problem+Solver" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=MERN+%26+NestJS+Full-Stack+Developer;JavaScript+%7C+React+%7C+Node.js+%7C+NestJS;Clean+Code+Enthusiast;Problem+Solver+%26+Fast+Learner" />
 </p>
 
 <p align="center">
@@ -10,21 +10,15 @@
 
 ---
 
-## 🚀 About Me
+## 🌟 About Me
 
-> 💡 *"Code is like humor. When you have to explain it, it’s bad."*
+✨ Full-stack developer who loves modern architectures, elegant UI designs, and scalable backend systems.
 
-### Who Am I?
-
-A dedicated full‑stack developer who loves building efficient systems, beautiful UIs, and scalable backend infrastructures. I enjoy turning ideas into real‑world applications and constantly improving my craft.
-
-✨ I'm a passionate full‑stack developer who enjoys building fast, scalable, and user‑friendly applications. I love exploring new technologies and constantly sharpening my problem‑solving skills.
-
-* 🔭 Currently doing a **30‑Days Codewars Challenge**
-* ⚙️ Working with **MERN** + **NestJS** full‑stack applications
-* 🌱 Deep diving into architecture, backend patterns & clean coding
-* 🤝 Looking for help with advanced Node.js concepts
-* 🎯 Goal: Become a senior full‑stack developer
+* 🔭 Working on **30-Days Codewars Challenge**, **MERN**, and **NestJS** apps.
+* 🌱 Learning deeply: **Advanced Node.js**, **System Design**, **TypeScript**, and **Microservices**.
+* ⚙️ Passionate about backend optimization & clean code.
+* 🎯 Goal: To become a top-tier full-stack engineer.
+* 🎨 Fun fact: I enjoy turning complex ideas into simple user experiences.
 
 ---
 
@@ -32,55 +26,53 @@ A dedicated full‑stack developer who loves building efficient systems, beautif
 
 <p>
   <a href="https://instagram.com/shukhratjon717" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="45" />
+    <img src="https://skillicons.dev/icons?i=instagram" width="50" />
   </a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Tech Stack
 
-### 🧩 Core Skills Summary
+### 🎨 Frontend
 
-✔ Full‑stack development (MERN + NestJS)
-✔ API design & backend architecture
-✔ Clean code & reusable component patterns
-✔ UI/UX‑focused frontend development
-✔ Problem‑solving & debugging master
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,ts" />
+</p>
+
+### 🛠️ Tools & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,netlify,azure,docker" />
+</p>
+
+### 📚 Currently Exploring
+
+<p>
+  <img src="https://skillicons.dev/icons?i=graphql,redis,postgres" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Featured Projects
 
-### **Frontend**
+> *Add your top projects later here — it makes the profile look professional.*
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,next" />
-</p>
+🟦 **Project One** — Full-stack MERN app <br>🔗 Demo: *coming soon*
 
-### **Backend**
+🟥 **Project Two** — NestJS REST API <br>🔗 Repo: *coming soon*
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
-</p>
-
-### **Tools / DevOps**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,netlify,azure" />
-</p>
-
-### **Currently Learning**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,docker,postgres" />
-</p>
+🟩 **Project Three** — React UI kit <br>🔗 Demo: *coming soon*
 
 ---
 
 ## 📊 GitHub Stats
-
-### ⭐ My GitHub at a glance
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shukhratjon717&theme=tokyonight&hide_border=false" />
@@ -92,39 +84,7 @@ A dedicated full‑stack developer who loves building efficient systems, beautif
 
 ---
 
-## 🧪 Codepen
-
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge\&logo=codepen\&logoColor=white)](https://codepen.io/Ali-Mamadaliev)
-
----
-
-## 🚀 Featured Projects
-
-> *Showcasing your best work makes your GitHub look 10x more professional.*
-
-### 🔹 **Project Name 1** – *(Add a short description)*
-
-🔗 Demo: yourlink.com
-
-### 🔹 **Project Name 2** – *(Add a short description)*
-
-🔗 Repo: github.com/yourrepo
-
-### 🔹 **Project Name 3** – *(Add a short description)*
-
-🔗 Demo: yourlink.com
-
----
-
-## 🔥 Fun Extras
-
-### Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
-### Activity Graph
+## 🎯 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shukhratjon717&theme=react-dark&hide_border=true" />
@@ -132,8 +92,22 @@ A dedicated full‑stack developer who loves building efficient systems, beautif
 
 ---
 
+## 🧪 Codepen
+
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge\&logo=codepen\&logoColor=white)](https://codepen.io/Ali-Mamadaliev)
+
+---
+
+## 🧩 Dev Quote of the Day
+
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=shukhratjon717&icon=0&color=0" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
 </p>
 
-<!-- Fully redesigned by ChatGPT → Clean, modern & dynamic -->
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=shukhratjon717&icon=1&color=6" />
+</p>
+
+<!-- Fully redesigned by ChatGPT — cleaner, faster, more aesthetic 🚀 -->
