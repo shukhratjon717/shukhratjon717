@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm <strong>Shukhratjon</strong></h1>
+<h1 align="center">👋 Hey there, I'm <strong>Stevejon</strong></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=MERN+%26+NestJS+Full-Stack+Developer;JavaScript+%7C+React+%7C+Node.js+%7C+NestJS;Clean+Code+Enthusiast;Problem+Solver+%26+Fast+Learner" />
