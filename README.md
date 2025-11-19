@@ -14,7 +14,7 @@
 
 ✨ Full‑stack developer who loves modern architectures, elegant UI designs, and scalable backend systems.
 
-* 🔭 Working on **30‑Days Codewars Challenge**, **MERN**, and **NestJS** apps.
+* 🔭 Working on **30‑Days LeetCode Challenge**, **MERN**, and **NestJS** apps.
 * 🌱 Learning deeply: **Advanced Node.js**, **System Design**, **TypeScript**, and **Microservices**.
 * ⚙️ Passionate about backend optimization & clean code.
 * 🎯 Goal: To become a top‑tier full‑stack engineer.
